@@ -10,5 +10,4 @@ btn.addEventListener("click", function () {
   number.textContent = currentNumber;
   rating.classList.add("hide");
   thankYou.classList.remove("hide");
-  console.log(currentNumber);
 });
